@@ -1,47 +1,8 @@
-{№1} : VIT{Начальные буквы странных написаний и сокращений:
-- "uS" -> U
-- "fi" -> F 
-- "wEb" -> E
-- "Стэал" -> С
-- "Perform" -> P
-- "BOth" -> B
-- "foR" -> R
+{1} : VIT{SOGOODSOFARKEEPTRYING}
 
-Собирая эти буквы вместе, получаем: UFEСPBR}
+{2} : VIT{1s_th1s_really_the_p@ssw0rd?}
 
-{№2} : VIT{https://github.com/4ipok/volga_it_2024-ib-/blob/main/README.md
-1s_th1s_really_the_p@ssw0rd?}
-
-{№3} : VIT{Если предположить, что каждая буква представляет первую букву слова в фразе, можно выделить: 
-
-- B - Be (Будь)
-- k - kind (добрее)
-- F - friendly (дружелюбным)
-- S - supportive (поддерживающим)
-- b - brave (смелым)
-- A - authentic (аутентичным)
-- m - mindful (внимательным)
-- U - understanding (понимающим)
-- b - benevolent (благожелательным)
-- C - caring (заботливым)
-- d - dedicated (посвященным)
-- T - thoughtful (внимательным)
-- s - sincere (искренним)
-- A - approachable (доступным)
-- m - motivational (мотивирующим)
-- M - mindful (внимательным)
-- c - compassionate (сочувствующим)
-- M - mindful (внимательным)
-- d - devoted (преданным)
-- M - motivational (мотивирующим)
-- A - attentive (внимательным)
-- m - modest (скромным)
-- M - mindful (внимательным)
-- t - trustful (доверительным)
-- M - motivating (мотивирующим)
-- d - determined (решительным)
-- E - empathetic (сочувствующим)
-- u - understanding (понимающим)}
+{3} : VIT{ar3_0u_see_me?}
 
 {№4} : VIT{Ниагарский водопад}
 
